@@ -1,0 +1,28 @@
+<h1 id="tableLabel">Property details</h1>
+
+<p *ngIf="!properties"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="properties">
+  <thead>
+    <tr>
+      <th>Address</th>
+      <th>Year Built</th>
+      <th>List Price</th>
+      <th>Monthly Rent</th>
+      <th>Gross Yield</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of properties">
+      <td>{{ item.address }}</td>
+      <td>{{ item.yearBuilt }}</td>
+      <td>{{ item.listPrice | currency }}</td>
+      <td>{{ item.monthlyRent | currency }}</td>
+      <td>{{ item.grossYield | percent:'.2' }}</td>
+      <td>
+        <button type="button" class="btn btn-link" (click)="onSave(item)">Save</button>
+      </td>
+    </tr>
+  </tbody>
+</table>

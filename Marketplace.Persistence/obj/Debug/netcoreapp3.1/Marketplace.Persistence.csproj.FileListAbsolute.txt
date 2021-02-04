@@ -1,0 +1,9 @@
+C:\code\Marketplace\Marketplace.Persistence\bin\Debug\netcoreapp3.1\Marketplace.Persistence.deps.json
+C:\code\Marketplace\Marketplace.Persistence\bin\Debug\netcoreapp3.1\Marketplace.Persistence.dll
+C:\code\Marketplace\Marketplace.Persistence\bin\Debug\netcoreapp3.1\Marketplace.Persistence.pdb
+C:\code\Marketplace\Marketplace.Persistence\obj\Debug\netcoreapp3.1\Marketplace.Persistence.csprojAssemblyReference.cache
+C:\code\Marketplace\Marketplace.Persistence\obj\Debug\netcoreapp3.1\Marketplace.Persistence.AssemblyInfoInputs.cache
+C:\code\Marketplace\Marketplace.Persistence\obj\Debug\netcoreapp3.1\Marketplace.Persistence.AssemblyInfo.cs
+C:\code\Marketplace\Marketplace.Persistence\obj\Debug\netcoreapp3.1\Marketplace.Persistence.csproj.CoreCompileInputs.cache
+C:\code\Marketplace\Marketplace.Persistence\obj\Debug\netcoreapp3.1\Marketplace.Persistence.dll
+C:\code\Marketplace\Marketplace.Persistence\obj\Debug\netcoreapp3.1\Marketplace.Persistence.pdb
